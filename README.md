@@ -1,0 +1,1 @@
+Contains bash-script used for downloading the requisite PDB files from the RCSB Protein Data Bank, the implementation of aggregation analysis (see the flow chart in SI) and the data generated for benchmarking.
